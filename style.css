@@ -3,6 +3,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: serif;
+    
 }
 .intro{
     background-color:rgb(103,59,81);
@@ -11,6 +12,7 @@ body{
     background-size: cover;
     height: 82vh;
     width: 100%; 
+    transform: all();
 }
 /* .top{
     margin-top: 5px;
